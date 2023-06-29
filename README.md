@@ -69,3 +69,9 @@ Git и GitHub: Система контроля версий Git использу
 
 ### Удаление персонажа
 Для удаления персонажа, отправьте DELETE запрос на http://localhost:5000/api/characters/{id}, где {id} - идентификатор персонажа.
+![image](https://github.com/Tor12378/StarWarsAPI/assets/87545113/2e277a4d-fcc9-46b3-b0e7-8a4aa1c8d5f8)
+![image](https://github.com/Tor12378/StarWarsAPI/assets/87545113/62ef42c7-3e55-4e8d-ad07-94b0f64edf8f)
+![image](https://github.com/Tor12378/StarWarsAPI/assets/87545113/2ebcb0ae-dd62-40f2-bce5-3114e77030f3)
+![image](https://github.com/Tor12378/StarWarsAPI/assets/87545113/4e56f6b3-8991-49be-8f6f-acb46ed077fe)
+
+
